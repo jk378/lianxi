@@ -26,3 +26,7 @@ ReactDOM.render(
 This example will render "Hello Taylor" into a container on the page.
 
 You'll notice that we used an HTML-like syntax; we call it JSX. JSX is not required to use React, but it makes code more readable, and writing it feels like writing HTML. If you're using React as a `<script>` tag, read this section on integrating JSX; otherwise, the [recommended JavaScript toolchains](https://reactjs.org/docs/create-a-new-react-app.html) handle it automatically.
+
+
+
+asdsadsadasd
